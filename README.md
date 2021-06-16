@@ -1,1 +1,1 @@
-# Trex-with-colours
+# chromeTREX
